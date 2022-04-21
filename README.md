@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @eugenio-canciello-developer
-- 👀 I’m interested in Native / Hybrid Mobile Development
+- 👀 I’m work from 2014 in Native / Hybrid Mobile Development
+- 🌱 I’m currently upgrade my skills in Android Native Development
 - 🌱 I’m currently learning Cloud Computing Architecture and Java Spring for Microservices
 - 💞️ I’m looking to collaborate with everyone
 - 📫 How to reach me, send me an email at cancielloeugenio at gmail dot com
